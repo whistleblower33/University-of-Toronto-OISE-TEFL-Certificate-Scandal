@@ -22,7 +22,7 @@ The Insolvency Notice: On December 20, 2024, UofT received a formal Notice to Cr
 
 The Promise: On February 12, 2025, the President of the bankrupt partner wrote to UofT's Associate Director, explicitly stating: "Kesson intends to make payments to the University of Toronto for royalty amounts owed after the date of the Initial Order."
 
-The Result: Despite knowing the partner was insolvent, and despite having the contractual right to terminate the agreement, the University allowed the storefront to remain open. Internal emails show the University's own Senior Financial Analyst documenting that "Enrollment still open as of February 13, 2025," while the Executive Director acknowledged this was a risk to "learner needs." UofT kept the pipeline open to collect royalties, while actively choosing not to warn the students paying into it.
+The Result: Despite knowing the partner was insolvent, and despite having the contractual right to terminate the agreement, the University allowed the storefront to remain open. Internal emails show the University's own Senior Financial Analyst documenting that "Enrollment still open as of February 13, 2025," while the Executive Director acknowledged this was a risk to "learner needs." 
 
 The Blocked Warning: On May 20, 2025, the bankrupt partner offered to send a warning email to learners. On May 21, UofT’s Associate Director agreed it was "of benefit to share with learners." On May 22, the Executive Director overruled him, stating there was "no requirement" to send the warning. No email was ever sent.
 
