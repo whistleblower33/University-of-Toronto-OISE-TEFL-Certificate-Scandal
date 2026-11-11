@@ -26,7 +26,7 @@ The Result: Despite knowing the partner was insolvent, and despite having the co
 
 The Blocked Warning: On May 20, 2025, the bankrupt partner offered to send a warning email to learners. On May 21, UofT’s Associate Director agreed it was "of benefit to share with learners." On May 22, the Executive Director overruled him, stating there was "no requirement" to send the warning. No email was ever sent.
 
-The Deflection: The University's public FAQ directed students to request refunds from info@pluribustechologies.com. However, internal emails show UofT knew by May 20, 2025, that this email address belonged to a bankrupt estate with zero funds available for unsecured creditors.
+The Deflection: The University's public FAQ directed students to request refunds from the bankrupt third party. However, internal emails show UofT knew by May 20, 2025, that this belonged to a bankrupt estate with zero funds available for unsecured creditors.
 
 The Script: When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
 
