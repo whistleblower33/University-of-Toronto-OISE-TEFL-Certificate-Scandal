@@ -31,7 +31,5 @@ The Deflection: The University's public FAQ directed students to request refunds
 The Script: When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
 
 
-Disclaimer:
-
-This archive is published in the public interest for educational, journalistic, and research purposes. 
+Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes. 
 
