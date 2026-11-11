@@ -32,5 +32,5 @@ The Script: When students complained, internal emails show UofT leadership instr
 
 
 Disclaimer
-This archive is published in the public interest for educational, journalistic, and research purposes. The documents contained herein were obtained through legal Freedom of Information requests or are part of the public court record.
+This archive is published in the public interest for educational, journalistic, and research purposes. 
 
