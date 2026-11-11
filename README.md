@@ -1,18 +1,18 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
-A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. I demanded a refund but was met with a stonewall response each time. U of T deflected blame to a third party. I was forced to self-represent and filed FOI requests to uncover the truth. 
+A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. The plaintiff demanded a refund. U of T deflected blame to a third party. The plaintiff was forced to self-represent and filed FOI requests to uncover the truth. 
 
 University of Toronto OISE TEFL Certificate Scandal
 A case study in institutional failure and cover-up.
 
-In January 2025, I paid $1,196.00 USD to the University of Toronto for a "150-hour OISE TEFL online course." Five days prior, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised bankruptcy protection. 
+In January 2025, the plaintiff paid $1,196.00 USD to the University of Toronto for a "150-hour OISE TEFL online course." Five days prior, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised bankruptcy protection. 
 
-When the program abruptly shut down in June 2025, leaving students stranded, I requested a refund. The University stonewalled me, directing me to a bankrupt entity that they knew had no money to pay creditors.
+When the program abruptly shut down in June 2025, leaving students stranded, the plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
 
-Forced to represent myself in Small Claims Court, I filed Freedom of Information (FIPPA) requests. The internal emails I obtained reveal that the University had prior warning in Dec 2024, but the administration was unaware until Feb 2025.
+The plaintiff filed Freedom of Information (FIPPA) requests. The internal emails the plaintiff obtained reveal that the University had prior warning in Dec 2024, but the administration was unaware until Feb 2025.
 
 Key Findings from the FOI Documents (FIPPA Release 26-R023)
 
-The Knowledge: The University received a formal Notice to Creditors in December 2024, over a month before I paid. Internal emails show they were chasing over $142,000 in unpaid royalties from their partner as early as November 2024.
+The Knowledge: The University received a formal Notice to Creditors in December 2024, over a month before the plaintiff paid. Internal emails show they were chasing over $142,000 in unpaid royalties from their partner as early as November 2024.
 
 The Motive: The "Post-Filing" Royalty Promise
 
