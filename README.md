@@ -12,6 +12,8 @@ The plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 Key Findings from the FOI Documents (FIPPA Release 26-R023)
 
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FIPPA_26-R023_Released_Records.pdf)
+
 The Knowledge: The University received a formal Notice to Creditors in December 2024, over a month before the plaintiff paid. Internal emails show they were chasing over $142,000 in unpaid royalties from their partner as early as November 2024.
 
 The Motive: The "Post-Filing" Royalty Promise
