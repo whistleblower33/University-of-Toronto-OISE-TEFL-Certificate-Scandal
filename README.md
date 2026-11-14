@@ -1,16 +1,16 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
-A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. The plaintiff demanded a refund. U of T deflected blame to a third party. The plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
+A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. The plaintiff demanded a refund. U of T deflected blame to a third party. The Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
 University of Toronto OISE TEFL Certificate Scandal
 A case study in institutional failure and cover-up.
 
-In January 2025, the plaintiff paid $1,196.00 USD to the University of Toronto for a "150-hour OISE TEFL online course." Five days prior, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised bankruptcy protection. 
+In January 2025, the Plaintiff paid $1,196.00 USD to the University of Toronto for a "150-hour OISE TEFL online course." Five days prior, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised bankruptcy protection. 
 
-When the program abruptly shut down in June 2025, leaving students stranded, the plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
+When the program abruptly shut down in June 2025, leaving students stranded, the Plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
 
-The plaintiff filed Freedom of Information (FIPPA) requests. The internal emails the plaintiff obtained reveal that the University had prior warning in Dec 2024, but the administration was unaware until Feb 2025.
+The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails the Plaintiff obtained reveal that the University had prior warning in Dec 2024, but the administration was unaware until Feb 2025.
 
 Key Findings from the FOI Documents (FIPPA Release 26-R023)
 
@@ -39,7 +39,7 @@ Disclaimer: This archive is published in the public interest for educational, jo
 
 
 
-This is the Full and Final Release that the University of Toronto pushed in exchange for a refund. The plaintiff is publishing it unredacted (except for the physical signature) because the terms are unconscionable. They demanded a lifetime gag order and a waiver of the plaintiffs human rights for a $1,335 refund. The plaintiff did not fully consent to it, and it was never discussed during the phone negotiations. The plaintiff was experiencing TBI flare-ups at the time of signature.
+This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's human rights for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/NDA_for_life_just_for_refund_and_court_costs_plus_interest.pdf)
 
