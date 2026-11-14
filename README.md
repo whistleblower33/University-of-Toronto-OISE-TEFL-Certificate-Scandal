@@ -1,5 +1,5 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
-A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. The plaintiff demanded a refund. U of T deflected blame to a third party. The Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
+A case study in institutional failure and cover-up. After a purchase of an online TEFL course for $1196, the program suddenly shut down without explanation. The Plaintiff demanded a refund. U of T deflected blame to a third party. The Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
