@@ -39,3 +39,6 @@ Disclaimer: This archive is published in the public interest for educational, jo
 
 This is the Full and Final Release that the University of Toronto pushed in exchange for a refund. The plaintiff is publishing it unredacted (except for the physical signature) because the terms are unconscionable. They demanded a lifetime gag order and a waiver of the plaintiffs human rights for a $1,335 refund. The plaintiff did not fully consent to it, and it was never discussed during the phone negotiations. The plaintiff was experiencing TBI flare-ups at the time of signature.
 
+This document represents the Plaintiff's legal theory and analysis based on documentary evidence. It is published for the purposes of public interest, legal research, and accountability. All claims are allegations to be proven in a court of law.
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/UofT_Fraud_Theory_Timeline.pdf)
