@@ -56,7 +56,7 @@ I believe this was fraud, and these documents record what happened when I tried 
 
 15–16 December 2025: RCMP, second complaint. I asked for the case to be reopened with new evidence. The reply said that as a complainant outside Canada I had to go through the FBI, which could forward the complaint to RCMP headquarters, and that it would then most likely be passed to the Toronto Police Service.
 
-[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/CAFC%20Fraud.pdf](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/RCPMP_Chain_criminal_fraud_or_civil_fraud.pdf)
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/RCPMP_Chain_criminal_fraud_or_civil_fraud.pdf)
 
 17 December 2025: FBI. I filed a complaint with the Internet Crime Complaint Center (IC3) as instructed.
 
