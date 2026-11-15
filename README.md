@@ -47,17 +47,17 @@ This document represents the Plaintiff's legal theory and analysis based on docu
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/UofT_Fraud_Theory_Timeline.pdf)
 
-I believe this was fraud, and these documents record what happened when I tried to report it.
+The Plaintiff believes this was fraud, and these documents record what happened when the Plaintiff tried to report it.
 
-16 September 2025: Canadian Anti-Fraud Centre. I filed a report (reference 2025-81555). The CAFC collects fraud reports but does not investigate them, and I never heard from it directly.
+16 September 2025: Canadian Anti-Fraud Centre. The Plaintiff filed a report (reference 2025-81555). The CAFC collects fraud reports but does not investigate them, and the Plaintiff never heard from it directly.
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/CAFC%20Fraud.pdf)
 
 23 September 2025: RCMP, first complaint. The Central Intake Unit for Ontario had the complaint reviewed and closed it as “a wholly civil matter” (case 2025-1409258).
 
-15–16 December 2025: RCMP, second complaint. I asked for the case to be reopened with new evidence. The reply said that as a complainant outside Canada I had to go through the FBI, which could forward the complaint to RCMP headquarters, and that it would then most likely be passed to the Toronto Police Service.
+15–16 December 2025: RCMP, second complaint. The Plaintiff asked for the case to be reopened with new evidence. The reply said that as a complainant outside Canada the Plaintiff had to go through the FBI, which could forward the complaint to RCMP headquarters, and that it would then most likely be passed to the Toronto Police Service.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/RCPMP_Chain_criminal_fraud_or_civil_fraud.pdf)
 
-17 December 2025: FBI. I filed a complaint with the Internet Crime Complaint Center (IC3) as instructed.
+17 December 2025: FBI. The Plaintiff filed a complaint with the Internet Crime Complaint Center (IC3) as instructed.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/IC3_Complaint.pdf)
