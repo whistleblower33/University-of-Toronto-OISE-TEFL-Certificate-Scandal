@@ -42,6 +42,11 @@ Disclaimer: This archive is published in the public interest for educational, jo
 
 This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's human rights for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
 
+The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The approximately US$1,335 discussed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
+
+Confidentiality was not discussed during the phone negotiations, according to my recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
+
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/NDA_for_life_just_for_refund_and_court_costs_plus_interest.pdf)
 
 Criminal or Civil?
