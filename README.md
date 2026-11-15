@@ -5,8 +5,7 @@ sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
-University of Toronto OISE TEFL Certificate Scandal
-A case study in institutional failure and cover-up.
+University of Toronto OISE TEFL Certificate Scandal: A case study in institutional failure and cover-up.
 
 In January 2025, the Plaintiff paid $1,196.00 USD to the University of Toronto for a "150-hour OISE TEFL online course." Five days prior, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised bankruptcy protection. 
 
