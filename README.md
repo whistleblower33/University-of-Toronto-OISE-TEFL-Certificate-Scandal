@@ -43,6 +43,8 @@ This is the Full and Final Release that the University of Toronto presented in e
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/NDA_for_life_just_for_refund_and_court_costs_plus_interest.pdf)
 
+Criminal or Civil?
+
 This document represents the Plaintiff's legal theory and analysis based on documentary evidence. It is published for the purposes of public interest, legal research, and accountability. All claims are allegations to be proven in a court of law.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/UofT_Fraud_Theory_Timeline.pdf)
