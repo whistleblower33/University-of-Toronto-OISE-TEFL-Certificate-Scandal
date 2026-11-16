@@ -47,7 +47,7 @@ The Plaintiff sought reimbursement for an undelivered course, not payment in exc
 Confidentiality was not discussed during the phone negotiations, according to my recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
 
 
-[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/NDA_for_life_just_for_refund_and_court_costs_plus_interest.pdf)
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/release_scan_clean.pdf)
 
 Criminal or Civil?
 
