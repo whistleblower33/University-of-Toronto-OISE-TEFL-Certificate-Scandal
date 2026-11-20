@@ -37,6 +37,7 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FIPPA_26-R023_Released_Records.pdf) (FIPPA release, p. 132)
  
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/bankruptcy_trustee.pdf) (bankruptcy trustee, September 11, 2025)
+
 **The Script:** When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
 
 **The Timeline Given to Students:** On September 23, 2025, OISE CPL's Senior Program Manager told the Plaintiff in writing that while a University Accounts Receivable contact received the Notice to Creditors in December 2024, "OISE CPL was not made aware of this information until late March 2025." The same day, the Associate Director dated the parent company's "bankruptcy and court-supervised restructuring" to June 2025. The University's own records show the Associate Director was told about the CCAA proceedings on February 12, 2025, and the Executive Director was briefed on February 13 (R-3–5). The CCAA filing itself was announced publicly on December 17, 2024, and the sale process on January 23, 2025.
