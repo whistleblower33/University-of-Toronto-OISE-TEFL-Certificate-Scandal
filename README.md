@@ -271,7 +271,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | **6. Settlement and the close of the case** | | |
 | May 26, 2026 | University Counsel's "without prejudice" letter: denies the claim, saying Kesson handled enrolment and all tuition payments; offers $1,196 USD or one of three program options, for withdrawal of the claim and a full and final release; open until June 5 | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/2026-05-26%20-Ltr%20to%20Aders%20fr%20OUC%20(Jackson).pdf) |
 | Jun 19, 2026 | Plaintiff's Offer to Settle (Form 14A): principal, court filing fee, FIPPA fees and prejudgment interest; open through to trial | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Aders-v-UofT_Offer-to-Settle_2026-06-19_REDACTED.pdf) |
-| Jul 13, 2026 | University Counsel asks for a phone call about "a couple of points" in the offer | Settlement emails |
+| Jul 13, 2026 | University Counsel asks for a phone call about "a couple of points" in the offer | [see here] (https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
 | Jul 16, 2026 | Phone negotiation with University Counsel | Settlement emails |
 | Jul 18, 2026 | Plaintiff confirms in writing the $1,335 USD figure discussed, and sends the FIPPA release and his brief (Tabs 1–6) | Settlement emails |
 | Jul 20, 2026 | University sends signed settlement documents. Plaintiff declines: the amount is below what he paid. Counsel calls it a typo and re-sends at $1,335 | Settlement emails |
