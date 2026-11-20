@@ -269,7 +269,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | May 2, 2026 | Affidavit of Service sworn | Tab 5 |
 | May 20, 2026 | Defendant delivers its Defence | Tab 5 |
 | **6. Settlement and the close of the case** | | |
-| May 26, 2026 | University Counsel's "without prejudice" letter: denies the claim, saying Kesson handled enrolment and all tuition payments; offers $1,196 USD or one of three program options, for withdrawal of the claim and a full and final release; open until June 5 | Letter, OUC to Plaintiff |
+| May 26, 2026 | University Counsel's "without prejudice" letter: denies the claim, saying Kesson handled enrolment and all tuition payments; offers $1,196 USD or one of three program options, for withdrawal of the claim and a full and final release; open until June 5 | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/2026-05-26%20-Ltr%20to%20Aders%20fr%20OUC%20(Jackson).pdf) |
 | Jun 19, 2026 | Plaintiff's Offer to Settle (Form 14A): principal, court filing fee, FIPPA fees and prejudgment interest; open through to trial | Offer to Settle, Sched. A |
 | Jul 13, 2026 | University Counsel asks for a phone call about "a couple of points" in the offer | Settlement emails |
 | Jul 16, 2026 | Phone negotiation with University Counsel | Settlement emails |
