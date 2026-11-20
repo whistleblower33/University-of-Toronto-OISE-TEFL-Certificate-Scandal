@@ -30,8 +30,13 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 **The Blocked Warning:** On May 20, 2025, the insolvent partner offered to send a warning email to learners. On May 21, UofT's Associate Director agreed it was "of benefit to share with learners." On May 22, the Executive Director overruled him, stating there was "no requirement" to send the warning. No email was ever sent.
 
-**The Deflection:** The University's public FAQ directed students to request refunds from the bankrupt third party. However, internal emails show UofT knew by May 20, 2025, that this belonged to a bankrupt estate with zero funds available for unsecured creditors.
-
+**The Deflection:** The University's public FAQ directed students to request refunds from the bankrupt third party. However, internal emails show UofT knew by May 20, 2025, that learners who registered during the CCAA proceedings would not be refunded, because "there are no funds available to pay any unsecured creditors" (FIPPA release, p. 132). On September 11, 2025, the bankruptcy trustee confirmed it to the Plaintiff directly: "The company is bankrupt and there is no money for the creditors or any refunds".
+ 
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FAQ.pdf) (FAQ)
+ 
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FIPPA_26-R023_Released_Records.pdf) (FIPPA release, p. 132)
+ 
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/bankruptcy_trustee.pdf) (bankruptcy trustee, September 11, 2025)
 **The Script:** When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
 
 **The Timeline Given to Students:** On September 23, 2025, OISE CPL's Senior Program Manager told the Plaintiff in writing that while a University Accounts Receivable contact received the Notice to Creditors in December 2024, "OISE CPL was not made aware of this information until late March 2025." The same day, the Associate Director dated the parent company's "bankruptcy and court-supervised restructuring" to June 2025. The University's own records show the Associate Director was told about the CCAA proceedings on February 12, 2025, and the Executive Director was briefed on February 13 (R-3–5). The CCAA filing itself was announced publicly on December 17, 2024, and the sale process on January 23, 2025.
