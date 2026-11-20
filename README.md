@@ -40,9 +40,13 @@ This is the Full and Final Release that the University of Toronto presented in e
 
 The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The approximately US$1,335 discussed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
 
-Confidentiality was not discussed during the phone negotiations, according to the Plaintiff's recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
+Confidentiality was not discussed during the phone negotiations, according to my recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/release_scan_clean.pdf)
+
+The court record shows only a consent dismissal of the Plaintiff's Claim. The box to note that "payment has been made in full satisfaction of … terms of settlement" was left unchecked (Form 11.2A, p. 3). Without this archive, the public record would show no settlement, no payment, and no reason the claim ended.
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Aders-v-UofT_Form-11.2A_Request-to-Dismiss_REDACTED.pdf)
 
 ## Criminal or Civil?
 
@@ -66,6 +70,21 @@ The Plaintiff believes this was fraud, and these documents record what happened 
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/IC3_Complaint.pdf)
 
+## Access to justice for an international plaintiff
+
+The Plaintiff lives outside Canada. Every step of this case cost more for that reason, and for a claim worth $1,196 USD, the costs of getting help could easily have exceeded anything he could recover.
+
+- **Legal advice.** In July 2026, one Ontario firm quoted hourly rates starting at $265 for a first-year lawyer and $400–600 for a lawyer with ten years' experience, plus an upfront retainer, then declined the matter because it does not handle Small Claims cases and referred the Plaintiff to the Law Society Referral Service. That service's free 30-minute consultations are offered online to Ontario residents. In November 2026, when the Plaintiff asked a Toronto education-law firm about challenging the settlement, a single Zoom consultation was quoted at $508.50 ($450 + HST), and the firm itself cautioned that "the cost of legal services may exceed any additional recovery." Other firms the Plaintiff approached could not act because they represent the University. The Pro Bono Ontario hotline is a toll-free number that generally can't be dialled from abroad.
+- **Serving the claim.** University Counsel refused service by email. A process server quoted a $500 USD retainer for personal service in Toronto. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
+- **Sworn documents.** Court affidavits must be sworn before a lawyer, notary or commissioner. From outside Ontario, that meant finding a notary abroad, and the Plaintiff's bank, which had notarized his earlier court documents, later declined to witness a court form.
+- **Reporting fraud.** The RCMP told the Plaintiff that, as a complainant outside Canada, he had to go through the FBI.
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Legal-Assistance_REDACTED.pdf) (hourly rates, July 2026)
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Request-for-Consultation_REDACTED.pdf) (consultation fee, November 2026)
+
+The Plaintiff represented himself from start to finish. The settlement covered the course fee, interest and court disbursements: nothing more. Many students with the same claim may have concluded it wasn't worth pursuing.
+
 ## Case timeline: Aders v. Governing Council of the University of Toronto
 
 Court File No. SC-25-00014152-0000 (Toronto Small Claims Court)
@@ -74,7 +93,7 @@ The first chart shows the whole case. The second zooms in on the months when the
 
 ```mermaid
 gantt
-    title The full timeline (Nov 2024 to May 2026)
+    title The full timeline (Nov 2024 to Sep 2026)
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
     tickInterval 2month
@@ -106,6 +125,12 @@ gantt
     Serving the claim, 136 days                  :done, e2, 2025-12-15, 2026-04-30
     FIPPA request to release                     :active, e3, 2026-03-02, 2026-04-15
     Defence delivered (May 20)                   :milestone, e4, 2026-05-20, 0d
+
+    section Settlement
+    Offers and negotiation                       :f1, 2026-05-26, 2026-07-22
+    Release signed (Jul 22)                      :milestone, f2, 2026-07-22, 0d
+    Payment received (Aug 20)                    :crit, milestone, f3, 2026-08-20, 0d
+    Dismissal request filed (Sep 8)              :milestone, f4, 2026-09-08, 0d
 ```
 
 ### Close-up: the insolvency months
@@ -243,3 +268,21 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | Apr 30, 2026 | Claim served by email, 136 days after filing | Tab 5 |
 | May 2, 2026 | Affidavit of Service sworn | Tab 5 |
 | May 20, 2026 | Defendant delivers its Defence | Tab 5 |
+| **6. Settlement and the close of the case** | | |
+| May 26, 2026 | University Counsel's "without prejudice" letter: denies the claim, saying Kesson handled enrolment and all tuition payments; offers $1,196 USD or one of three program options, for withdrawal of the claim and a full and final release; open until June 5 | Letter, OUC to Plaintiff |
+| Jun 19, 2026 | Plaintiff's Offer to Settle (Form 14A): principal, court filing fee, FIPPA fees and prejudgment interest; open through to trial | Offer to Settle, Sched. A |
+| Jul 13, 2026 | University Counsel asks for a phone call about "a couple of points" in the offer | Settlement emails |
+| Jul 16, 2026 | Phone negotiation with University Counsel | Settlement emails |
+| Jul 18, 2026 | Plaintiff confirms in writing the $1,335 USD figure discussed, and sends the FIPPA release and his brief (Tabs 1–6) | Settlement emails |
+| Jul 20, 2026 | University sends signed settlement documents. Plaintiff declines: the amount is below what he paid. Counsel calls it a typo and re-sends at $1,335 | Settlement emails |
+| Jul 21, 2026 | Payment method changed from cheque to wire transfer; updated settlement package sent | Settlement emails |
+| Jul 22, 2026 | Plaintiff's bank declines to witness his signature; University confirms any witness may sign. Plaintiff signs the release and Form 11.2A and returns the release | Settlement emails; Form 11.2A, p. 4 |
+| Jul 27, 2026 | Plaintiff returns the wire transfer form | Settlement emails |
+| Aug 14, 2026 | Wire fails for a missing routing code; form resubmitted the same day | Settlement emails |
+| **Aug 20, 2026** | **Settlement payment of $1,335 USD received by wire** | Settlement emails (Sep 2 and 4) |
+| Sep 8, 2026 | University e-files Form 11.2A asking the clerk to dismiss the Plaintiff's Claim on consent; the box noting payment under "terms of settlement" is left unchecked | Form 11.2A, pp. 1, 3 |
+| Sep 29, 2026 | University: the request is still in the court's processing queue, not yet approved | Settlement emails |
+| Nov 1, 2026 | Plaintiff asks the University to drop or renegotiate the release's confidentiality clause, which was not discussed during the phone negotiation | "A_life_sentence_without_parole_for_a_refund.pdf" |
+| Nov 4, 2026 | University: settlements are not revisited once signed; the release is not time-limited and "the promise of confidentiality was an important consideration"; he may speak about other aspects of his interactions with the University | "A_life_sentence_without_parole_for_a_refund.pdf" |
+| Nov 6, 2026 | Plaintiff objects: confidentiality was never raised in negotiations, and he received no payment for it | "A_life_sentence_without_parole_for_a_refund.pdf" |
+| Nov 9, 2026 | University: cannot give legal advice; refers him to a lawyer | "A_life_sentence_without_parole_for_a_refund.pdf" |
