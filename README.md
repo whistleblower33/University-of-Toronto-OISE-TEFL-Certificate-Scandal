@@ -71,18 +71,20 @@ The Plaintiff believes this was fraud, and these documents record what happened 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/IC3_Complaint.pdf)
 
 ## Access to justice for an international plaintiff
-
+ 
 The Plaintiff lives outside Canada. Every step of this case cost more for that reason, and for a claim worth $1,196 USD, the costs of getting help could easily have exceeded anything he could recover.
-
+ 
 - **Legal advice.** In July 2026, one Ontario firm quoted hourly rates starting at $265 for a first-year lawyer and $400–600 for a lawyer with ten years' experience, plus an upfront retainer, then declined the matter because it does not handle Small Claims cases and referred the Plaintiff to the Law Society Referral Service. That service's free 30-minute consultations are offered online to Ontario residents. In November 2026, when the Plaintiff asked a Toronto education-law firm about challenging the settlement, a single Zoom consultation was quoted at $508.50 ($450 + HST), and the firm itself cautioned that "the cost of legal services may exceed any additional recovery." Other firms the Plaintiff approached could not act because they represent the University. The Pro Bono Ontario hotline is a toll-free number that generally can't be dialled from abroad.
-- **Serving the claim.** University Counsel refused service by email. A process server quoted a $500 USD retainer for personal service in Toronto. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
+- **Serving the claim.** University Counsel refused service by email. A process-serving firm first quoted a $350 CAD retainer per party for personal service in Toronto; once the Plaintiff said he was writing from the United States, the quote became a $500 retainer under the firm's US-client pricing, a premium of at least 43% for being outside Canada. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
 - **Sworn documents.** Court affidavits must be sworn before a lawyer, notary or commissioner. From outside Ontario, that meant finding a notary abroad, and the Plaintiff's bank, which had notarized his earlier court documents, later declined to witness a court form.
 - **Reporting fraud.** The RCMP told the Plaintiff that, as a complainant outside Canada, he had to go through the FBI.
-
+ 
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) (process-server quote, December 2025)
+ 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Legal-Assistance_REDACTED.pdf) (hourly rates, July 2026)
-
+ 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Request-for-Consultation_REDACTED.pdf) (consultation fee, November 2026)
-
+ 
 The Plaintiff represented himself from start to finish. The settlement covered the course fee, interest and court disbursements: nothing more. Many students with the same claim may have concluded it wasn't worth pursuing.
 
 ## Case timeline: Aders v. Governing Council of the University of Toronto
