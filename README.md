@@ -34,6 +34,10 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 **The Script:** When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
 
+**The Timeline Given to Students:** On September 23, 2025, OISE CPL's Senior Program Manager told the Plaintiff in writing that while a University Accounts Receivable contact received the Notice to Creditors in December 2024, "OISE CPL was not made aware of this information until late March 2025." The same day, the Associate Director dated the parent company's "bankruptcy and court-supervised restructuring" to June 2025. The University's own records show the Associate Director was told about the CCAA proceedings on February 12, 2025, and the Executive Director was briefed on February 13 (R-3–5). The CCAA filing itself was announced publicly on December 17, 2024, and the sale process on January 23, 2025.
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Your_Concerns_about_the_TEFL_Program_REDACTED.pdf)
+
 *Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes.*
 
 This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's human rights for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
@@ -71,20 +75,20 @@ The Plaintiff believes this was fraud, and these documents record what happened 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/IC3_Complaint.pdf)
 
 ## Access to justice for an international plaintiff
- 
+
 The Plaintiff lives outside Canada. Every step of this case cost more for that reason, and for a claim worth $1,196 USD, the costs of getting help could easily have exceeded anything he could recover.
- 
+
 - **Legal advice.** In July 2026, one Ontario firm quoted hourly rates starting at $265 for a first-year lawyer and $400–600 for a lawyer with ten years' experience, plus an upfront retainer, then declined the matter because it does not handle Small Claims cases and referred the Plaintiff to the Law Society Referral Service. That service's free 30-minute consultations are offered online to Ontario residents. In November 2026, when the Plaintiff asked a Toronto education-law firm about challenging the settlement, a single Zoom consultation was quoted at $508.50 ($450 + HST), and the firm itself cautioned that "the cost of legal services may exceed any additional recovery." Other firms the Plaintiff approached could not act because they represent the University. The Pro Bono Ontario hotline is a toll-free number that generally can't be dialled from abroad.
 - **Serving the claim.** University Counsel refused service by email. A process-serving firm first quoted a $350 CAD retainer per party for personal service in Toronto; once the Plaintiff said he was writing from the United States, the quote became a $500 retainer under the firm's US-client pricing, a premium of at least 43% for being outside Canada. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
 - **Sworn documents.** Court affidavits must be sworn before a lawyer, notary or commissioner. From outside Ontario, that meant finding a notary abroad, and the Plaintiff's bank, which had notarized his earlier court documents, later declined to witness a court form.
 - **Reporting fraud.** The RCMP told the Plaintiff that, as a complainant outside Canada, he had to go through the FBI.
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) (process-server quote, December 2025)
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Legal-Assistance_REDACTED.pdf) (hourly rates, July 2026)
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Request-for-Consultation_REDACTED.pdf) (consultation fee, November 2026)
- 
+
 The Plaintiff represented himself from start to finish. The settlement covered the course fee, interest and court disbursements: nothing more. Many students with the same claim may have concluded it wasn't worth pursuing.
 
 ## Case timeline: Aders v. Governing Council of the University of Toronto
@@ -244,8 +248,8 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | Sep 16, 2025 | Canadian Anti-Fraud Centre complaint | Tab 3, Item 3.9 |
 | Sep 18, 2025 | Complaints to Consumer Protection Ontario and the Ministry of Colleges and Universities | Tab 3, Items 3.10–3.11 |
 | Sep 19, 2025 | U.S. Federal Trade Commission report | Tab 3, Item 3.12 |
-| Sep 23, 2025 | Abdullah: a U of T Accounts Receivable contact "received the Notice to Creditors in December 2024" | Tab 3, Item 3.4 |
-| Sep 23, 2025 | Cassidy takes over the file; RCMP declines the complaint as "wholly civil" | Tab 3, Items 3.5, 3.13 |
+| Sep 23, 2025 | Abdullah: a U of T Accounts Receivable contact "received the Notice to Creditors in December 2024," but OISE CPL "was not made aware of this information until late March 2025" (the FIPPA release shows briefings on Feb 12–13, R-3–5) | Tab 3, Item 3.4; [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Your_Concerns_about_the_TEFL_Program_REDACTED.pdf) |
+| Sep 23, 2025 | Cassidy takes over the file, dating the parent company's "bankruptcy and court-supervised restructuring" to June 2025; RCMP declines the complaint as "wholly civil" | Tab 3, Items 3.5, 3.13; [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Your_Concerns_about_the_TEFL_Program_REDACTED.pdf) |
 | Sep 24, 2025 | Cassidy: matter is "a priority," hopes to connect; no follow-up | Tab 3, Item 3.5 |
 | Oct 21, 2025 | Consumer Protection Ontario declines to act | Tab 3, Item 3.10 |
 | Dec 8, 2025 | Appeal to President Woodin (cc Dean Walker, Cassidy) | Tab 4, Ex. 4.1 |
@@ -259,7 +263,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | Dec 15, 2025, 9:30 p.m. | Cassidy's reply on the President's behalf: refund refused, three options | Tab 4, Ex. 4.2 |
 | Dec 18, 2025 | Plaintiff emails the issued Claim to the Governing Council | Tab 5, Item 5.2 |
 | Dec 22, 2025 | University Counsel rejects service by email | Tab 5, Item 5.3 |
-| Dec 30, 2025 | Process server quotes a $500 USD retainer for personal service | Tab 5, Item 5.4 |
+| Dec 30, 2025 | Process server quotes a $500 retainer for personal service under its US-client pricing ($350 CAD per party for Canadian clients) | Tab 5, Item 5.4; [Exhibit B](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) |
 | Jan 6, 2026 | Fee waiver granted | Tab 5 |
 | Jan 13, 2026 | Motion for substituted service sworn (accepted for filing about Jan 19) | Tab 5, Item 5.5 |
 | Mar 2, 2026 | Court: motion still in queue. Same day, Plaintiff files FIPPA request | Tab 5, Item 5.6; Tab 6 |
