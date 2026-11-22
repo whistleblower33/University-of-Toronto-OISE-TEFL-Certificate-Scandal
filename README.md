@@ -1,6 +1,8 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
 
-This archive is a work in progress. The principal documents are available now, and further records will be added. Readers are invited to examine the sources and reach their own conclusions.
+University of Toronto OISE TEFL Certificate Program Review - After a purchase of an online University of Toronto TEFL course for $1196, the program suddenly shut down without explanation. Plaintiff demanded a refund. U of T deflected blame to a third party. Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
+
+Readers are invited to examine the sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
