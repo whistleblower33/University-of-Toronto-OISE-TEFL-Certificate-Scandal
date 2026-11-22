@@ -2,7 +2,7 @@
 
 University of Toronto OISE TEFL Certificate Program Review - After a purchase of an online University of Toronto TEFL course for $1196, the program suddenly shut down without explanation. Plaintiff demanded a refund. U of T deflected blame to a third party. Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
  
- Readers are invited to examine the sources and reach their own conclusions.
+Readers are invited to examine the sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
@@ -64,6 +64,8 @@ The Plaintiff's position is that the confidentiality clause is unconscionable an
 
 **Improvident bargain.** The settlement equals what the Plaintiff could have expected to recover at trial (the course fee, interest and court disbursements) and nothing more. Yet the release binds him to confidentiality with no time limit: the University's view is that the release "is not time-limited," and that "the promise of confidentiality was an important consideration for the University" (November 4, 2026). No amount was paid for it.
 
+**Notice of an unusual term.** Under *Tilden Rent-A-Car Co. v. Clendenning* (1978), a decision of the Court of Appeal for Ontario, a signature binds a party to an onerous or unusual term only where it is reasonable to believe they actually agreed to it, and the party relying on the term must take reasonable steps to bring it to the other party's attention. Here, the amount was agreed by phone and confirmed in writing before the release existed; the lifetime confidentiality term first appeared in a release sent already signed "as discussed"; and before signing, the Plaintiff told University Counsel in writing that he was having severe headaches and needed to review the document "with a clear head." The release states that he signed "either with the advice of counsel or having deliberately waived the opportunity to consult with counsel." For a self-represented plaintiff outside Ontario, a single consultation would have cost a large share of the settlement, and free referral services are offered to Ontario residents. The release was signed about 48 hours after it was first sent.
+
 **How the clause entered the agreement.**
 
 | Date | Event | Confidentiality mentioned? |
@@ -72,6 +74,7 @@ The Plaintiff's position is that the confidentiality clause is unconscionable an
 | Jul 16, 2026 | Phone negotiation with University Counsel | No |
 | Jul 18, 2026 | Plaintiff confirms in writing "$1335 USD as we discussed" | No |
 | **Jul 20, 2026** | **University sends the release, already signed: "Further to our phone call, please see attached as discussed"** | **Yes: first appearance** |
+| Jul 20, 2026 | University Counsel: "Are we agreed on the remaining terms?" Plaintiff: "I will need some time to review it. I am having really bad headaches and I want to be sure I sign with a clear head." Counsel: "I'll follow up toward the end of this week." | Not discussed |
 | Jul 21, 2026 | Corrected package; the cover letter lists the terms | No (only inside the release) |
 | Jul 22, 2026 | Plaintiff signs | — |
 | Nov 6, 2026 | Plaintiff objects in writing: "If the promise of confidentiality was an important consideration, why was it not a topic during the negotiations?" | The University's reply of November 9 does not answer the question |
@@ -79,6 +82,8 @@ The Plaintiff's position is that the confidentiality clause is unconscionable an
 This is the Plaintiff's legal position. No court has ruled on the validity of the clause.
 
 [see here](https://www.canlii.org/en/ca/scc/doc/2020/2020scc16/2020scc16.html) (*Uber Technologies Inc. v. Heller*, 2020 SCC 16)
+
+[see here](https://www.canlii.org/en/on/onca/doc/1978/1978canlii1446/1978canlii1446.html) (*Tilden Rent-A-Car Co. v. Clendenning*, 1978 CanLII 1446 (ON CA))
 
 The court record shows only a consent dismissal of the Plaintiff's Claim. The box to note that "payment has been made in full satisfaction of … terms of settlement" was left unchecked (Form 11.2A, p. 3). Without this archive, the public record would show no settlement, no payment, and no reason the claim ended.
 
