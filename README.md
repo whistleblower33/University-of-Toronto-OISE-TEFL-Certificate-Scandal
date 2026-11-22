@@ -1,8 +1,6 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
 
-University of Toronto OISE TEFL Certificate Program Review - After a purchase of an online University of Toronto TEFL course for $1196, the program suddenly shut down without explanation. Plaintiff demanded a refund. U of T deflected blame to a third party. Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
-
-Readers are invited to examine the sources and reach their own conclusions.
+This archive is a work in progress. The principal documents are available now, and further records will be added. Readers are invited to examine the sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
@@ -10,7 +8,7 @@ Readers are invited to examine the sources and reach their own conclusions.
 
 In January 2025, the Plaintiff paid $1,196.00 USD for a "150-hour OISE TEFL online course," sold under the University of Toronto's name and crest (Tab 1). Six weeks earlier, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised creditor protection, and five days before the payment its parent company publicly announced it was putting the business up for sale.
 
-When the program abruptly shut down in June 2025, leaving students stranded, the Plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
+When the program abruptly shut down in spring 2025, leaving students stranded, the Plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
 
 The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails the Plaintiff obtained reveal that the University received formal notice in December 2024, and that its senior program leadership was personally briefed by February 13, 2025, while enrolment remained open.
 
@@ -33,11 +31,11 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 **The Blocked Warning:** On May 20, 2025, the insolvent partner offered to send a warning email to learners. On May 21, UofT's Associate Director agreed it was "of benefit to share with learners." On May 22, the Executive Director overruled him, stating there was "no requirement" to send the warning. No email was ever sent.
 
 **The Deflection:** The University's public FAQ directed students to request refunds from the bankrupt third party. However, internal emails show UofT knew by May 20, 2025, that learners who registered during the CCAA proceedings would not be refunded, because "there are no funds available to pay any unsecured creditors" (FIPPA release, p. 132). On September 11, 2025, the bankruptcy trustee confirmed it to the Plaintiff directly: "The company is bankrupt and there is no money for the creditors or any refunds".
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FAQ.pdf) (FAQ)
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/FIPPA_26-R023_Released_Records.pdf) (FIPPA release, p. 132)
- 
+
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/bankruptcy_trustee.pdf) (bankruptcy trustee, September 11, 2025)
 
 **The Script:** When students complained, internal emails show UofT leadership instructing staff to "gently push back on any suggestion that we engaged in misrepresentation so as to preserve our legal and reputational position."
@@ -52,7 +50,7 @@ This is the Full and Final Release that the University of Toronto presented in e
 
 The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The approximately US$1,335 discussed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
 
-Confidentiality was not discussed during the phone negotiations, according to the Plaintiff’s recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
+Confidentiality was not discussed during the phone negotiations, according to my recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/release_scan_clean.pdf)
 
@@ -125,7 +123,8 @@ gantt
 
     section Program
     Enrolment open during CCAA                   :crit, c1, 2024-12-17, 2025-04-15
-    Program taken offline (Jun 6)                :milestone, c2, 2025-06-06, 0d
+    Agreement disclaimed (May 16)                :milestone, c2, 2025-05-16, 0d
+    Plaintiff finds program offline (Jun 6)      :milestone, c4, 2025-06-06, 0d
     Legacy Program on Quercus                    :c3, 2025-08-08, 2025-10-31
 
     section Plaintiff
@@ -174,7 +173,7 @@ gantt
 
     section Plaintiff
     Plaintiff pays USD 1,196 (Jan 28)             :crit, milestone, s1, 2025-01-28, 0d
-    Program taken offline (Jun 6)                 :milestone, s2, 2025-06-06, 0d
+    Plaintiff finds program offline (Jun 6)       :milestone, s2, 2025-06-06, 0d
 ```
 
 <sub>The release dates the 57 withheld pages only as "March–April 2025," so that bar is approximate.</sub>
@@ -235,7 +234,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | May 21, 2025 | Cassidy: learner email "is appropriate" | Tab 6, R-129–130 |
 | May 22, 2025 | Rees-Johnstone reverses; no notification is ever sent | Tab 6, R-127–129 |
 | **3. Shutdown and the "migration"** | | |
-| **Jun 6, 2025** | **Program taken offline. Plaintiff asks about his progress; OISE CPL asks him to wait and not send more emails** | Tab 2, Ex. 2.1 |
+| **Jun 6, 2025** | **Plaintiff finds the program offline and writes to OISE CPL, as the website now instructed; OISE CPL asks him to wait and not send more emails. The exact shutdown date is not in the record: it was on or before this date, most likely after the agreement was disclaimed on May 16** | Tab 2, Ex. 2.1; Tab 6, R-116 |
 | Jun 9, 2025 | Internal reply to a "Scam" complaint: "preserve our legal and reputational position" | Tab 6, R-165–171 |
 | Jul 10, 2025 | Pluribus (now 1000128977 Ontario Inc.) declares bankruptcy | Tab 3, Item 3.7 |
 | Jul 17, 2025 | Access date in an internal draft learner email (Quercus migration); no sent version in the release | Tab 6, R-180–181 |
