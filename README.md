@@ -1,8 +1,6 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
 
-University of Toronto OISE TEFL Certificate Program Review - After a purchase of an online University of Toronto TEFL course for $1196, the program suddenly shut down without explanation. Plaintiff demanded a refund. U of T deflected blame to a third party. Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
-
-Readers are invited to examine the sources and reach their own conclusions.
+This archive is a work in progress. The principal documents are available now, and further records will be added. Readers are invited to examine the sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
 
@@ -48,13 +46,37 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 *Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes.*
 
-This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's human rights for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
+This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's right to bring human rights applications for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
 
 The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The approximately US$1,335 discussed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
 
-Confidentiality was not discussed during the phone negotiations, according to my recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
+Confidentiality was not discussed during the phone negotiations, according to the Plaintiff's recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/release_scan_clean.pdf)
+
+### The Plaintiff's position: the confidentiality clause is unconscionable
+
+The Plaintiff's position is that the confidentiality clause is unconscionable and unenforceable. He has said so in writing to the University since November 6, 2026. In *Uber Technologies Inc. v. Heller*, 2020 SCC 16, the Supreme Court of Canada held that a contract term is unconscionable where there is (1) an inequality of bargaining power and (2) a resulting improvident bargain that unduly advantages the stronger party. The inequality need not be overwhelming and can arise from personal or circumstantial weaknesses, and the stronger party need not have intended to take advantage.
+
+**Inequality of bargaining power.** The Plaintiff was self-represented, living outside Canada, and working through Ontario procedure and legal terminology unfamiliar to an American. The University was represented by its own legal counsel. At the time of signing, the Plaintiff was experiencing TBI flare-ups and preparing an international relocation, and independent legal advice would have cost a large share of the amount in dispute (see *Access to justice for an international plaintiff*).
+
+**Improvident bargain.** The settlement equals what the Plaintiff could have expected to recover at trial (the course fee, interest and court disbursements) and nothing more. Yet the release binds him to confidentiality with no time limit: the University's view is that the release "is not time-limited," and that "the promise of confidentiality was an important consideration for the University" (November 4, 2026). No amount was paid for it.
+
+**How the clause entered the agreement.**
+
+| Date | Event | Confidentiality mentioned? |
+|---|---|---|
+| May 26, 2026 | University's offer letter requires "a full and final release" | No |
+| Jul 16, 2026 | Phone negotiation with University Counsel | No |
+| Jul 18, 2026 | Plaintiff confirms in writing "$1335 USD as we discussed" | No |
+| **Jul 20, 2026** | **University sends the release, already signed: "Further to our phone call, please see attached as discussed"** | **Yes: first appearance** |
+| Jul 21, 2026 | Corrected package; the cover letter lists the terms | No (only inside the release) |
+| Jul 22, 2026 | Plaintiff signs | — |
+| Nov 6, 2026 | Plaintiff objects in writing: "If the promise of confidentiality was an important consideration, why was it not a topic during the negotiations?" | The University's reply of November 9 does not answer the question |
+
+This is the Plaintiff's legal position. No court has ruled on the validity of the clause.
+
+[see here](https://www.canlii.org/en/ca/scc/doc/2020/2020scc16/2020scc16.html) (*Uber Technologies Inc. v. Heller*, 2020 SCC 16)
 
 The court record shows only a consent dismissal of the Plaintiff's Claim. The box to note that "payment has been made in full satisfaction of … terms of settlement" was left unchecked (Form 11.2A, p. 3). Without this archive, the public record would show no settlement, no payment, and no reason the claim ended.
 
