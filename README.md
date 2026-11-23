@@ -1,7 +1,7 @@
 # University-of-Toronto-OISE-TEFL-Certificate-Scandal
 
 University of Toronto OISE TEFL Certificate Program Review - After a purchase of an online University of Toronto TEFL course for $1196, the program suddenly shut down without explanation. Plaintiff demanded a refund. U of T deflected blame to a third party. Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
- 
+
 Readers are invited to examine the sources and reach their own conclusions.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Plaintiffs_Brief_Tabs_1-6.pdf)
@@ -64,7 +64,7 @@ The Plaintiff's position is that the confidentiality clause is unconscionable an
 
 **Improvident bargain.** The settlement equals what the Plaintiff could have expected to recover at trial (the course fee, interest and court disbursements) and nothing more. Yet the release binds him to confidentiality with no time limit: the University's view is that the release "is not time-limited," and that "the promise of confidentiality was an important consideration for the University" (November 4, 2026). No amount was paid for it.
 
-**Notice of an unusual term.** Under *Tilden Rent-A-Car Co. v. Clendenning* (1978), a decision of the Court of Appeal for Ontario, a signature binds a party to an onerous or unusual term only where it is reasonable to believe they actually agreed to it, and the party relying on the term must take reasonable steps to bring it to the other party's attention. Here, the amount was agreed by phone and confirmed in writing before the release existed; the lifetime confidentiality term first appeared in a release sent already signed "as discussed"; and before signing, the Plaintiff told University Counsel in writing that he was having severe headaches and needed to review the document "with a clear head." The release states that he signed "either with the advice of counsel or having deliberately waived the opportunity to consult with counsel." For a self-represented plaintiff outside Ontario, a single consultation would have cost a large share of the settlement, and free referral services are offered to Ontario residents. The release was signed about 48 hours after it was first sent.
+**Notice of an unusual term.** Under *Tilden Rent-A-Car Co. v. Clendenning* (1978), a decision of the Court of Appeal for Ontario, a signature binds a party to an onerous or unusual term only where it is reasonable to believe they actually agreed to it, and the party relying on the term must take reasonable steps to bring it to the other party's attention. Here, the amount was agreed by phone and confirmed in writing before the release existed; the lifetime confidentiality term first appeared in a release sent already signed "as discussed"; and before signing, the Plaintiff told University Counsel in writing that he was having severe headaches and needed to review the document "with a clear head." The release states that he signed "either with the advice of counsel or having deliberately waived the opportunity to consult with counsel." In fact, he was still seeking counsel on the day he signed: of at least ten firms he contacted, two declined because of conflicts with institutional clients, one could not take a Small Claims matter, one replied only after he had signed, and the rest did not respond. For a self-represented plaintiff outside Ontario, a single consultation would have cost a large share of the settlement, and free referral services are offered to Ontario residents. The release was signed about 48 hours after it was first sent.
 
 **How the clause entered the agreement.**
 
@@ -111,18 +111,43 @@ The Plaintiff believes this was fraud, and these documents record what happened 
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/IC3_Complaint.pdf)
 
+## Before court: a student no one had jurisdiction over
+
+The Plaintiff fell into a gap: an **international continuing-education learner** who bought a University-branded program through a private delivery partner. He was not a degree student, not an Ontario resident, and not a customer of an ordinary business. Before filing in court, he took his complaint to every body he could find. Each declined, and each pointed somewhere else.
+
+| Date | Body | Response | Pointed him to |
+|---|---|---|---|
+| Sep 5, 2025 | U of T Office of the Ombudsperson | "continuing education programs at OISE are not within our jurisdiction" | OISE leadership |
+| Sep 16, 2025 | Canadian Anti-Fraud Centre | Receipt issued; does not adjudicate individual complaints | — |
+| Sep 19, 2025 | U.S. Federal Trade Commission | Receipt issued; does not resolve individual reports | — |
+| Sep 23, 2025 | RCMP | "a wholly civil matter"; OISE was "correct in referring the complainant to the bankrupt" | Civil courts |
+| Oct 21, 2025 | Consumer Protection Ontario | Would "not take action at this time" because "your dispute is against a business that has closed and/or has filed for bankruptcy" | Ministry of the Attorney General, a lawyer, or the Ministry of Education |
+| Dec 16, 2025 | U.S. Consulate General Toronto | "unable to provide assistance in matters related to consumer fraud or disputes with foreign institutions" | Canadian authorities, a private attorney, the FTC |
+| Dec 16, 2025 | RCMP (second request) | As a complainant outside Canada, he would need the FBI to forward the complaint | FBI |
+| Feb 20, 2026 | Ministry of Colleges and Universities | Universities are "autonomous institutions"; the Ministry "is not in a position to intervene in individual cases" | The University's Student Accounts Office, or the Ontario Ombudsman |
+
+Each answer followed that body's own rules. Taken together, they left a single route: a lawsuit filed by the student himself. The University's internal Ombudsperson excluded continuing education; the consumer regulator treated the University's program as a bankrupt company's business; the Ministry deferred to the University's autonomy; police treated it as civil; and the Plaintiff's own consulate treated it as a Canadian matter.
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Ombuds_Officer_University_of_Toronto.pdf) (U of T Ombudsperson, September 2025)
+
 ## Access to justice for an international plaintiff
 
 The Plaintiff lives outside Canada. Every step of this case cost more for that reason, and for a claim worth $1,196 USD, the costs of getting help could easily have exceeded anything he could recover.
 
-- **Legal advice.** In July 2026, one Ontario firm quoted hourly rates starting at $265 for a first-year lawyer and $400–600 for a lawyer with ten years' experience, plus an upfront retainer, then declined the matter because it does not handle Small Claims cases and referred the Plaintiff to the Law Society Referral Service. That service's free 30-minute consultations are offered online to Ontario residents. In November 2026, when the Plaintiff asked a Toronto education-law firm about challenging the settlement, a single Zoom consultation was quoted at $508.50 ($450 + HST), and the firm itself cautioned that "the cost of legal services may exceed any additional recovery." Other firms the Plaintiff approached could not act because they represent the University. The Pro Bono Ontario hotline is a toll-free number that generally can't be dialled from abroad.
+- **Legal advice.** On July 22, 2026, the day he signed the release, the Plaintiff contacted at least ten Ontario law firms. One quoted hourly rates starting at $265 for a first-year lawyer and $400–600 for a lawyer with ten years' experience, plus an upfront retainer, then declined the matter because it does not handle Small Claims cases and referred the Plaintiff to the Law Society Referral Service. That service's free 30-minute consultations are offered online to Ontario residents. In November 2026, when the Plaintiff asked a Toronto education-law firm about challenging the settlement, a single Zoom consultation was quoted at $508.50 ($450 + HST), and the firm itself cautioned that "the cost of legal services may exceed any additional recovery." Two education-law firms declined that day because of conflicts: one "acts as counsel for school boards and schools," which it said "creates a conflict in assisting you"; the other said it "only act[s] for institutions/employers/organizations and not for individuals." A fourth firm replied the next morning, after he had signed, that it was "unable to assist in this matter at this time." At least six others did not respond. Every firm that replied referred him to the Law Society Referral Service. The Pro Bono Ontario hotline is a toll-free number that generally can't be dialled from abroad.
 - **Serving the claim.** University Counsel refused service by email. A process-serving firm first quoted a $350 CAD retainer per party for personal service in Toronto; once the Plaintiff said he was writing from the United States, the quote became a $500 retainer under the firm's US-client pricing, a premium of at least 43% for being outside Canada. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
 - **Sworn documents.** Court affidavits must be sworn before a lawyer, notary or commissioner. From outside Ontario, that meant finding a notary abroad, and the Plaintiff's bank, which had notarized his earlier court documents, later declined to witness a court form.
 - **Reporting fraud.** The RCMP told the Plaintiff that, as a complainant outside Canada, he had to go through the FBI.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) (process-server quote, December 2025)
 
-[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Legal-Assistance_REDACTED.pdf) (hourly rates, July 2026)
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Legal-Assistance_REDACTED.pdf) (hourly rates, July 22, 2026)
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Seeking-Counsel_Conflict-of-Interest_REDACTED.pdf) (conflict of interest, July 22, 2026)
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Seeking-Counsel_Conflict-of-Interest_2_REDACTED.pdf) (conflict of interest, July 22, 2026)
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Seeking-Counsel_No-Capacity_REDACTED.pdf) (reply after signing, July 23, 2026)
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Request-for-Consultation_REDACTED.pdf) (consultation fee, November 2026)
 
@@ -320,7 +345,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | Jul 18, 2026 | Plaintiff confirms in writing the $1,335 USD figure discussed, and sends the FIPPA release and his brief (Tabs 1–6) | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
 | Jul 20, 2026 | University sends signed settlement documents. Plaintiff declines: the amount is below what he paid. Counsel calls it a typo and re-sends at $1,335 | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
 | Jul 21, 2026 | Payment method changed from cheque to wire transfer; updated settlement package sent | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
-| Jul 22, 2026 | Plaintiff's bank declines to witness his signature; University confirms any witness may sign. Plaintiff signs the release and Form 11.2A and returns the release |[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/04_Settlement_Bank_Refused_Use_Family_Witness_Instead.pdf.pdf) |
+| Jul 22, 2026 | Plaintiff contacts at least ten law firms seeking advice; two decline over conflicts, one does not handle Small Claims, the rest do not reply in time. His bank declines to witness his signature; University confirms any witness may sign. Plaintiff signs the release and Form 11.2A and returns the release |[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/04_Settlement_Bank_Refused_Use_Family_Witness_Instead.pdf.pdf) |
 | Jul 27, 2026 | Plaintiff returns the wire transfer form |[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
 | Aug 14, 2026 | Wire fails for a missing routing code; form resubmitted the same day | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
 | **Aug 20, 2026** | **Settlement payment of $1,335 USD received by wire** | [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Offer_to_Settle%20Aders%20v.%20Governing%20Council%20of%20the%20University%20of%20Toronto%20(SC-25-00014152-0000).pdf) |
