@@ -4,7 +4,7 @@ University of Toronto OISE TEFL Certificate Program Review: After purchasing an 
 
 Readers are invited to examine the sources and reach their own conclusions.
 
-**Two briefs.** The first, a 63-page appeal dossier sent to President Woodin on December 8, 2025, was built only from the Plaintiff's own records and the replies of the agencies he contacted. The second (Tabs 1–6), prepared for a settlement conference that never took place, adds the University's internal records obtained through FIPPA. It was shared with University Counsel on July 18, 2026, after the settlement amount had been agreed. The University's own records later confirmed the first brief's central point: it had notice of the partner's insolvency before it accepted the Plaintiff's payment.
+**Two briefs.** The first, a 63-page appeal dossier sent to President Woodin on December 8, 2025, was built only from the Plaintiff's own records and the replies of the agencies he contacted. The second (Tabs 1–6), prepared for a settlement conference that never took place, adds the University's internal records obtained through FIPPA. It was shared with University Counsel on July 18, 2026, after the settlement amount had been agreed. The University's own records later confirmed the first brief's central point: the University had notice of its partner's insolvency before the Plaintiff paid, and the partner accepted that payment under the University's name.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_A_redacted.pdf) (Brief 1: appeal dossier, December 2025)
 
