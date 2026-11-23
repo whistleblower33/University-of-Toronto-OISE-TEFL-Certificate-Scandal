@@ -128,7 +128,7 @@ The Plaintiff fell into a gap: an **international continuing-education learner**
 
 Each answer followed that body's own rules. Taken together, they left a single route: a lawsuit filed by the student himself. The University's internal Ombudsperson excluded continuing education; the consumer regulator treated the University's program as a bankrupt company's business; the Ministry deferred to the University's autonomy; police treated it as civil; and the Plaintiff's own consulate treated it as a Canadian matter.
 
-[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Ombuds_Officer_University_of_Toronto.pdf) (U of T Ombudsperson, September 2025)
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Ombuds%20Officer%20University%20of%20Toronto.pdf) (U of T Ombudsperson, September 2025)
 
 ## Access to justice for an international plaintiff
 
