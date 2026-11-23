@@ -61,7 +61,7 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 **Verify this yourself.** Anyone can file a FIPPA request with the University of Toronto for OISE Continuing & Professional Learning's correspondence with Kesson Group/Pluribus (December 2024–June 2025); personal information would be withheld, but the institutional records should match. The CCAA proceedings for Pluribus Technologies are public, and the court-appointed monitor, B. Riley Farber Inc., publishes the filings.
 
-*Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes.*
+*Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes. It documents the administration of a university-branded educational program, the treatment of affected learners, and the institutional response to complaints, consistent with Ontario's protection of expression on matters of public interest (Courts of Justice Act, s.137.1; 1704604 Ontario Ltd. v. Pointes Protection Association, 2020 SCC 22).*
 
 This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's right to bring human rights applications for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
 
