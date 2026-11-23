@@ -9,7 +9,7 @@ University of Toronto OISE TEFL Certificate Program Review: After purchasing an 
 - **January 28, 2025:** The Plaintiff pays USD $1,196 for a course sold under the University's name and crest.
 - **May 20–22, 2025:** The partner offers to warn learners; OISE CPL's Executive Director declines. No warning is sent.
 - **July 20, 2026:** A lifetime confidentiality clause appears for the first time, in a release the University sends already signed, after the amount had been agreed by phone.
-- **September 8, 2026:** The court filing that ends the case leaves the "terms of settlement" box unchecked. The public record shows no settlement.
+- **September 8, 2026:** The request to dismiss the case leaves the "terms of settlement" box unchecked. A reader of that filing alone would not learn that a settlement was paid.
 
 Readers are invited to examine the sources and reach their own conclusions.
 
@@ -65,9 +65,9 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's right to bring human rights applications for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
 
-The human rights waiver had practical effect. On October 30, 2026, the Human Rights Legal Support Centre advised that the Human Rights Tribunal of Ontario "will likely move to dismiss the application as an abuse of process based on the release," and that proving the release "was signed under duress and should be set aside will be very challenging." It also flagged the Code's 12-month filing limit. The Plaintiff decided not to apply. After more than a year of self-represented proceedings, he did not have the stamina for another long process. [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/HRLSC_Request-for-Accommodation_REDACTED.pdf)
+The human rights waiver had practical effect. On October 30, 2026, the Human Rights Legal Support Centre advised that the Human Rights Tribunal of Ontario "will likely move to dismiss the application as an abuse of process based on the release," and that proving the release "was signed under duress and should be set aside will be very challenging." It also flagged the Code's 12-month filing limit. The Plaintiff decided not to apply. After more than a year pursuing the dispute, including months of self-represented court proceedings, he did not have the stamina for another long process. [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/HRLSC_Request-for-Accommodation_REDACTED.pdf)
 
-The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The approximately US$1,335 discussed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
+The Plaintiff sought reimbursement for an undelivered course, not payment in exchange for silence. The US$1,335 agreed during the phone negotiations was calculated from the US$1,196 course fee, approximately US$52 in interest, and approximately US$87 in disbursements—the estimated US-dollar equivalent of CAD$118. That calculation contained no separate amount for confidentiality.
 
 Confidentiality was not discussed during the phone negotiations, according to the Plaintiff's recollection, but appeared in the written release the Plaintiff was subsequently asked to sign. The Plaintiff objects to attaching continuing restrictions on public discussion to the resolution of this refund dispute. The agreement is reproduced here so readers can examine the terms themselves.
 
@@ -110,7 +110,7 @@ This is the Plaintiff's legal position. No court has ruled on the validity of th
 
 [see here](https://mccagueborlack.com/emails/articles/enforceability-settlements.html) (*Huma v. Mississauga Hospital*, 2020 ONCA 644, case summary)
 
-The court record shows only a consent dismissal of the Plaintiff's Claim. The box to note that "payment has been made in full satisfaction of … terms of settlement" was left unchecked (Form 11.2A, p. 3). Without this archive, the public record would show no settlement, no payment, and no reason the claim ended.
+The court record shows only a consent dismissal of the Plaintiff's Claim. The box to note that "payment has been made in full satisfaction of … terms of settlement" was left unchecked (Form 11.2A, p. 3). A reader of that filing alone would not learn that a settlement was reached, that the University paid US$1,335, or why the claim ended. This archive fills that gap.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Aders-v-UofT_Form-11.2A_Request-to-Dismiss_REDACTED.pdf)
 
@@ -163,6 +163,7 @@ The Plaintiff lives outside Canada. Every step of this case cost more for that r
 - **Serving the claim.** University Counsel refused service by email. A process-serving firm first quoted a $350 CAD retainer per party for personal service in Toronto; once the Plaintiff said he was writing from the United States, the quote became a CAD $500 retainer under the firm's US-client pricing, a 43% premium for being outside Canada. The firm had confirmed its pricing was in Canadian dollars. Instead, the Plaintiff brought a motion for substituted service, which took 136 days from filing to service.
 - **Sworn documents.** Court affidavits must be sworn before a lawyer, notary or commissioner. From outside Ontario, that meant finding a notary abroad, and the Plaintiff's bank, which had notarized his earlier court documents, later declined to witness a court form.
 - **Reporting fraud.** The RCMP told the Plaintiff that, as a complainant outside Canada, he had to go through the FBI.
+- **Human rights remedy.** Because of his brain injury and the time difference, the Plaintiff asked the Human Rights Legal Support Centre, as an accommodation, to communicate in writing. Its answer, on October 30, 2026, was that the Tribunal would likely dismiss an application "as an abuse of process based on the release." The release he signed without counsel on July 22 had closed the human rights route as well.
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) (process-server quote, December 2025)
 
@@ -175,6 +176,8 @@ The Plaintiff lives outside Canada. Every step of this case cost more for that r
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Seeking-Counsel_No-Capacity_REDACTED.pdf) (reply after signing, July 23, 2026)
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Gmail_Request-for-Consultation_REDACTED.pdf) (consultation fee, November 2026)
+
+[see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/HRLSC_Request-for-Accommodation_REDACTED.pdf) (Human Rights Legal Support Centre, October 30, 2026)
 
 The Plaintiff represented himself from start to finish. The settlement covered the course fee, interest and court disbursements: nothing more. Many students with the same claim may have concluded it wasn't worth pursuing.
 
@@ -349,7 +352,7 @@ Refunds were issued only to learners who registered on or after April 15, 2025. 
 | **5. The court case** | | |
 | **Dec 15, 2025, 12:28 a.m.** | **Claim submitted to Toronto Small Claims Court** | Tab 5, Item 5.1 |
 | Dec 15, 2025, 9:30 p.m. | Cassidy's reply on the President's behalf: refund refused, three options | Tab 4, Ex. 4.2 |
-| Dec 18, 2025 | Plaintiff emails the issued Claim to the Governing Council | Tab 5, Item 5.2 |
+| Dec 18, 2025 | Court accepts the Claim, "considered filed on 18/12/2025"; Plaintiff emails the issued Claim to the Governing Council | Tab 5, Item 5.2 |
 | Dec 22, 2025 | University Counsel rejects service by email | Tab 5, Item 5.3 |
 | Dec 30, 2025 | Process server quotes a CAD $500 retainer for personal service under its US-client pricing (CAD $350 per party for Canadian clients) | Tab 5, Item 5.4; [Exhibit B](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Exhibit_B_Quote_for_International_Service_REDACTED.pdf) |
 | Jan 6, 2026 | Fee waiver granted | Tab 5 |
