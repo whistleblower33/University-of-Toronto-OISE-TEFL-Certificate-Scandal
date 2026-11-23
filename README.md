@@ -2,6 +2,15 @@
 
 University of Toronto OISE TEFL Certificate Program Review: After purchasing an online University of Toronto TEFL course for $1,196 USD, the Plaintiff saw the program suddenly shut down without explanation. He demanded a refund. U of T deflected blame to a third party. The Plaintiff was forced to self-represent and filed FOI requests to uncover the truth.
 
+**In brief**
+
+- **December 20, 2024:** The University receives formal notice that its TEFL partner has entered CCAA creditor protection, with the University listed as a creditor for over CAD $140,000.
+- **Before the filing:** The partner's royalties had gone unpaid since mid-2024, and the contract allowed termination for non-payment. The University did not act.
+- **January 28, 2025:** The Plaintiff pays USD $1,196 for a course sold under the University's name and crest.
+- **May 20–22, 2025:** The partner offers to warn learners; OISE CPL's Executive Director declines. No warning is sent.
+- **July 20, 2026:** A lifetime confidentiality clause appears for the first time, in a release the University sends already signed, after the amount had been agreed by phone.
+- **September 8, 2026:** The court filing that ends the case leaves the "terms of settlement" box unchecked. The public record shows no settlement.
+
 Readers are invited to examine the sources and reach their own conclusions.
 
 **Two briefs.** The first, a 63-page appeal dossier sent to President Woodin on December 8, 2025, was built only from the Plaintiff's own records and the replies of the agencies he contacted. The second (Tabs 1–6), prepared for a settlement conference that never took place, adds the University's internal records obtained through FIPPA. It was shared with University Counsel on July 18, 2026, after the settlement amount had been agreed by phone. The University's own records later confirmed the first brief's central point: the University had formal notice of its partner's insolvency (December 20, 2024) before the Plaintiff paid, and the partner accepted that payment under the University's name.
@@ -14,7 +23,7 @@ Readers are invited to examine the sources and reach their own conclusions.
 
 In January 2025, the Plaintiff paid $1,196.00 USD for a "150-hour OISE TEFL online course," sold under the University of Toronto's name and crest (Tab 1). Six weeks earlier, the University's third-party delivery partner (Teach Away/Kesson Group) had entered court-supervised creditor protection, and five days before the payment its parent company publicly announced it was putting the business up for sale.
 
-When the program abruptly shut down in spring 2025, leaving students stranded, the Plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
+When the program abruptly shut down in May–June 2025, leaving students stranded, the Plaintiff requested a refund. The University directed students to a bankrupt entity that they knew had no money to pay creditors.
 
 The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails the Plaintiff obtained reveal that the University received formal notice in December 2024, and that its senior program leadership was personally briefed by February 13, 2025, while enrolment remained open.
 
@@ -50,6 +59,8 @@ The Plaintiff filed Freedom of Information (FIPPA) requests. The internal emails
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Your_Concerns_about_the_TEFL_Program_REDACTED.pdf)
 
+**Verify this yourself.** Anyone can file a FIPPA request with the University of Toronto for OISE Continuing & Professional Learning's correspondence with Kesson Group/Pluribus (December 2024–June 2025); personal information would be withheld, but the institutional records should match. The CCAA proceedings for Pluribus Technologies are public, and the court-appointed monitor, B. Riley Farber Inc., publishes the filings.
+
 *Disclaimer: This archive is published in the public interest for educational, journalistic, and research purposes.*
 
 This is the Full and Final Release that the University of Toronto presented in exchange for the refund. It is published unredacted (except for the physical signature) because the terms are unconscionable. The University demanded a lifetime gag order and a waiver of the Plaintiff's right to bring human rights applications for a $1,335 refund. The Plaintiff did not fully consent to it, and the clause was never discussed during phone negotiations. The Plaintiff was experiencing TBI flare-ups at the time of signature.
@@ -82,6 +93,8 @@ The Plaintiff's position is that the confidentiality clause is unconscionable an
 | Jul 21, 2026 | Corrected package; the cover letter lists the terms | No (only inside the release) |
 | Jul 22, 2026 | Plaintiff signs | — |
 | Nov 6, 2026 | Plaintiff objects in writing: "If the promise of confidentiality was an important consideration, why was it not a topic during the negotiations?" | The University's reply of November 9 does not answer the question |
+
+Before publishing anything, the Plaintiff wrote to University Counsel on November 1, 2026, asking that the clause be dropped or renegotiated. The same email set out his account: no warning before the shutdown, a blocked notification to students, more than a year of non-payment left unaddressed, and a no-refund policy applied without a disability exception. The University's replies of November 4 and 9 addressed only the release. Neither disputed any of those points.
 
 This is the Plaintiff's legal position. No court has ruled on the validity of the clause.
 
