@@ -155,6 +155,10 @@ Each answer followed that body's own rules. Taken together, they left a single r
 
 [see here](https://github.com/whistleblower33/University-of-Toronto-OISE-TEFL-Certificate-Scandal/blob/main/Ombuds%20Officer%20University%20of%20Toronto.pdf) (U of T Ombudsperson, September 2025)
 
+Ontario does protect students when a private career college closes: the Training Completion Assurance Fund offers them completion or a refund. But the *Ontario Career Colleges Act, 2005* excludes "a university established under any Act" (s.1(1)(b)). A program sold under a university's name, even one delivered by a private partner, falls outside that protection.
+
+[see here](https://www.ontario.ca/laws/statute/05p28) (*Ontario Career Colleges Act, 2005*, s.1(1))
+
 ## Access to justice for an international plaintiff
 
 The Plaintiff lives outside Canada. Every step of this case cost more for that reason, and for a claim worth $1,196 USD, the costs of getting help could easily have exceeded anything he could recover.
